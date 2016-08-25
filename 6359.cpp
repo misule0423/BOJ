@@ -1,6 +1,5 @@
 //
-//  main.cpp
-//  6359
+//  6359.cpp
 //
 //  Created by 이민석 on 2016. 8. 25..
 //  Copyright © 2016년 Roop. All rights reserved.
