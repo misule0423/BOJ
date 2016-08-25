@@ -1,3 +1,3 @@
-# BOJ
+# BOJ https://www.acmicpc.net
 misule
-https://www.acmicpc.net
+
